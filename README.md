@@ -16,7 +16,7 @@ This web application presents a search engine for all your literary needs.  *Boo
 
 ## Sample Image
 
-![Sample-Image](https://raw.githubusercontent.com/TheHalfrican/Book-Look/img/sample-image.png)
+![Sample-Image](https://raw.githubusercontent.com/TheHalfrican/Book-Look/main/img/sample-image.png)
 
 
 ## Technologies Used
